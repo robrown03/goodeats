@@ -23,6 +23,14 @@ The Good Eats truck finder web application is an open source project geared towa
 ```
 git clone https://github.com/robrown03/goodeats.git
 ```
+### Next Steps
+* [Load sample data](Documentation/SampleDataLoad.md)
+* [Visualize results using the data explorer](Documentation/DataExplorer.md)
+* [Familiarize yourself the the repo structure](Documentation/GitRepository.md)
+* [Review the system overview](Documentation/systemoverview.md)
+* [Review the overall physical design](Documentation/physicalDesign.md)
+ 
+
 
 
 

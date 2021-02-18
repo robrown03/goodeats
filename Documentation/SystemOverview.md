@@ -1,4 +1,4 @@
-[<BACK](README.md)
+[<BACK](../README.md)
 
 # System Overview
 This document provides a high-level view of the various components and services in which the system is built upon.
@@ -19,5 +19,4 @@ As mentioned in the [Storage](##storage) section of this document, the data prov
 
 
 
-
-[<BACK](README.md)
+[<BACK](../README.md)
