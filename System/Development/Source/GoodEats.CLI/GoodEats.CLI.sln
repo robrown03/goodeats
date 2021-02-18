@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodEats.CLI.App", "GoodEats.CLI.App\GoodEats.CLI.App.csproj", "{AFBA4E89-0BF2-4B45-A80A-BEBC50121904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodEats.CLI.Tests", "GoodEats.CLI.Tests\GoodEats.CLI.Tests.csproj", "{B3C96C29-6660-4B6C-A7E4-D7FA053581D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBA4E89-0BF2-4B45-A80A-BEBC50121904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBA4E89-0BF2-4B45-A80A-BEBC50121904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBA4E89-0BF2-4B45-A80A-BEBC50121904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBA4E89-0BF2-4B45-A80A-BEBC50121904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C96C29-6660-4B6C-A7E4-D7FA053581D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C96C29-6660-4B6C-A7E4-D7FA053581D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C96C29-6660-4B6C-A7E4-D7FA053581D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C96C29-6660-4B6C-A7E4-D7FA053581D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {952D5421-CACE-49AC-B509-F959E36C798A}
+	EndGlobalSection
+EndGlobal

@@ -1,4 +1,4 @@
-[<BACK](README.md)
+[<BACK](../README.md)
 
 # GIT Repository
 
@@ -50,4 +50,4 @@ This Repo follows the GitHub Flow branching strategy which utilizes a single con
 ## Commits
 All comments must be associated with at least one issue.  
 
-[<BACK](README.md)
+[<BACK](../README.md)
