@@ -27,8 +27,8 @@ git clone https://github.com/robrown03/goodeats.git
 * [Load sample data](Documentation/SampleDataLoad.md)
 * [Visualize results using the data explorer](Documentation/DataExplorer.md)
 * [Familiarize yourself the the repo structure](Documentation/GitRepository.md)
-* [Review the system overview](Documentation/systemoverview.md)
-* [Review the overall physical design](Documentation/physicalDesign.md)
+* [Review the system components](Documentation/SystemOverview.md)
+* [Review the overall physical design](Documentation/PhysicalDesign.md)
  
 
 
